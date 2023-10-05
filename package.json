@@ -1,0 +1,21 @@
+{
+  "name": "image-resizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "A simple image resizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/felipefreitassilvalearning/ImageResizer"
+  },
+  "author": "Felipe Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.3.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
